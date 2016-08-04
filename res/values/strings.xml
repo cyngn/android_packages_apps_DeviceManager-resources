@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013-2014 The CyanogenMod Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Cyanogen Device Manager</string>
+    <string name="app_description">Allow Cyanogen Device Manager to lock or erase a lost device</string>
+
+    <string name="title_activity_remote_lock_notify">RemoteLockNotifyActivity</string>
+    <string name="unlock">UNLOCK</string>
+    <string name="call_owner">CALL OWNER</string>
+    <string name="locked_by">Locked by Cyanogen OS</string>
+    <string name="emergency_call">EMERGENCY CALL</string>
+    <string name="solicitation_text">This device is locked.</string>
+</resources>

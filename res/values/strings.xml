@@ -18,7 +18,7 @@
     <string name="app_name">Cyanogen Device Manager</string>
     <string name="app_description">Allow Cyanogen Device Manager to lock or erase a lost device</string>
 
-    <string name="title_activity_remote_lock_notify">RemoteLockNotifyActivity</string>
+    <string name="title_activity_remote_lock_notify" translatable="false">RemoteLockNotifyActivity</string>
     <string name="unlock">UNLOCK</string>
     <string name="call_owner">CALL OWNER</string>
     <string name="locked_by">Locked by Cyanogen OS</string>

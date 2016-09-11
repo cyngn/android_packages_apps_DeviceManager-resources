@@ -16,5 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">Cyanogen\'s enhetshanterare</string>
+  <string name="unlock">LÅS UPP</string>
   <string name="emergency_call">NÖDSAMTAL</string>
 </resources>

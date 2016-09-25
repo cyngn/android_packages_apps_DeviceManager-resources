@@ -16,10 +16,11 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">Cyanogen\'s enhetshanterare</string>
-  <string name="unlock">LÅS UPP</string>
-  <string name="call_owner">RING UPP ÄGAREN</string>
-  <string name="locked_by">Låst av Cyanogen OS</string>
-  <string name="emergency_call">NÖDSAMTAL</string>
-  <string name="solicitation_text">Den här enheten är låst.</string>
+  <string name="app_name">Xestor de dispositivos de Cyanogen</string>
+  <string name="app_description">Permitir ao Xestor de dispositivos de Cyanogen bloqueará ou borrará un dispositivo perdido</string>
+  <string name="unlock">DESBLOQUEAR</string>
+  <string name="call_owner">CHAMAR AO PROPIETARIO</string>
+  <string name="locked_by">Bloqueado por Cyanogen OS</string>
+  <string name="emergency_call">CHAMADA DE EMERXENCIA</string>
+  <string name="solicitation_text">Este dispositivo está bloqueado.</string>
 </resources>

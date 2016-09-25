@@ -16,10 +16,11 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">Cyanogen\'s enhetshanterare</string>
-  <string name="unlock">LÅS UPP</string>
-  <string name="call_owner">RING UPP ÄGAREN</string>
-  <string name="locked_by">Låst av Cyanogen OS</string>
-  <string name="emergency_call">NÖDSAMTAL</string>
-  <string name="solicitation_text">Den här enheten är låst.</string>
+  <string name="app_name">Cyanogen Enhedsadministrator</string>
+  <string name="app_description">Tillad Cyanogen Enhedsadministrator at låse eller slette en mistet enhed</string>
+  <string name="unlock">LÅS OP</string>
+  <string name="call_owner">RING TIL EJER</string>
+  <string name="locked_by">Låst af Cyanogen OS</string>
+  <string name="emergency_call">NØDOPKALD</string>
+  <string name="solicitation_text">Denne enhed er låst.</string>
 </resources>
